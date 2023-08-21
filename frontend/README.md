@@ -13,6 +13,11 @@
 ## Table Contents
 
 1. create-react-vite-app
+
    - creating support-desk-app in desktop
    - npm create vite@lates filename ---template react frontend
    - creating layout using react-bootstrap bootstrap
+
+2. Adding Routes
+   - create home page
+   - create admin page
