@@ -30,7 +30,16 @@
    - create footer section for support box
 
 4. create web server
+
    - create backend folder
    - npm install socket.io express
    - create express app
    - server html files in build folder
+
+5. create socket server
+   - handle connection to the server
+   - define users array
+   - handle onLogin
+   - handle disconnect
+   - handle onMessage
+   - handle onUserSelected
