@@ -25,6 +25,5 @@
 
 3. create chatbox component
    - add chat with us button
-   - handle click on button
-   - show support box
+   - handle click on button and show support box
    - create footer section for support box
