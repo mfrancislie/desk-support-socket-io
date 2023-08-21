@@ -1,17 +1,14 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'react-toastify/dist/ReactToastify.css';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Container from 'react-bootstrap/Container';
 import { Link, BrowserRouter, Routes, Route } from 'react-router-dom';
 import Admin from './pages/Admin';
 import Home from './pages/Home';
-import { ToastContainer } from 'react-toastify';
 
 function App() {
   return (
     <BrowserRouter>
-      <ToastContainer position="top-center" limit={1} />
       <div className="d-flex flex-column min-vh-100">
         <header>
           <Navbar bg="dark" variant="dark" expand="lg">
