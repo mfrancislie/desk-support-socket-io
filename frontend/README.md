@@ -19,5 +19,12 @@
    - creating layout using react-bootstrap bootstrap
 
 2. Adding Routes
+
    - create home page
    - create admin page
+
+3. create chatbox component
+   - add chat with us button
+   - handle click on button
+   - show support box
+   - create footer section for support box
