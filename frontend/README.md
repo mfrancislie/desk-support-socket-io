@@ -24,6 +24,13 @@
    - create admin page
 
 3. create chatbox component
+
    - add chat with us button
    - handle click on button and show support box
    - create footer section for support box
+
+4. create web server
+   - create backend folder
+   - npm install socket.io express
+   - create express app
+   - server html files in build folder
