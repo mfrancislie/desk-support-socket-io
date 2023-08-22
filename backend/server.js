@@ -13,6 +13,7 @@ app.get('/', function (req, res) {
 
 // chat server
 const httpServer = http.Server(app);
+// i set cors policy to accept request from all server
 const io = new Server(httpServer, { cors: { origin: '*' } });
 const users = [];
 

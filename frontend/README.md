@@ -37,9 +37,15 @@
    - server html files in build folder
 
 5. create socket server
+
    - handle connection to the server
    - define users array
    - handle onLogin
    - handle disconnect
    - handle onMessage
    - handle onUserSelected
+
+6. Complete chatbox components
+   - handle login user
+   - handle list messages
+   - handle send message
